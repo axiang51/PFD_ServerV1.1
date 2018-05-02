@@ -1,0 +1,16 @@
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\PFD_Server.exe.config
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\PFD_Server.exe
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\PFD_Server.pdb
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\Emgu.CV.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\Emgu.CV.GPU.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\Emgu.CV.ML.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\Emgu.CV.OCR.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\Emgu.CV.Stitching.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\Emgu.CV.UI.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\Emgu.CV.UI.GL.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\Emgu.CV.VideoStab.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\Emgu.Util.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Debug\MySql.Data.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\obj\Debug\PFD_Server.csprojResolveAssemblyReference.cache
+D:\ZX\客流检测\PFD_Server\PFD_Server\obj\Debug\PFD_Server.exe
+D:\ZX\客流检测\PFD_Server\PFD_Server\obj\Debug\PFD_Server.pdb

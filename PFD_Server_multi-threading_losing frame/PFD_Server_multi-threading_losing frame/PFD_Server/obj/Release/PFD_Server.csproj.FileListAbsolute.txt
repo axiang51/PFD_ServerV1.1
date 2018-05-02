@@ -1,0 +1,23 @@
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Release\PFD_Server.exe.config
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Release\PFD_Server.exe
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Release\PFD_Server.pdb
+D:\ZX\客流检测\PFD_Server\PFD_Server\bin\Release\MySql.Data.dll
+D:\ZX\客流检测\PFD_Server\PFD_Server\obj\Release\PFD_Server.exe
+D:\ZX\客流检测\PFD_Server\PFD_Server\obj\Release\PFD_Server.pdb
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧\PFD_Server\bin\Release\PFD_Server.exe.config
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧\PFD_Server\obj\Release\PFD_Server.exe
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧\PFD_Server\obj\Release\PFD_Server.pdb
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧多线程\PFD_Server\bin\Release\PFD_Server.exe.config
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧多线程\PFD_Server\obj\Release\PFD_Server.exe
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧多线程\PFD_Server\obj\Release\PFD_Server.pdb
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧多线程\PFD_Server\bin\Release\PFD_Server.exe
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧多线程\PFD_Server\bin\Release\PFD_Server.pdb
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧多线程\PFD_Server\bin\Release\MySql.Data.dll
+D:\ZX\客流检测\PFD_Server_吴超老师丢帧多线程\PFD_Server\obj\Release\PFD_Server.csprojResolveAssemblyReference.cache
+D:\ZX\客流检测\PFD_Server_multi-threading_losing frame\PFD_Server\bin\Release\PFD_Server.exe.config
+D:\ZX\客流检测\PFD_Server_multi-threading_losing frame\PFD_Server\obj\Release\PFD_Server.exe
+D:\ZX\客流检测\PFD_Server_multi-threading_losing frame\PFD_Server\obj\Release\PFD_Server.pdb
+D:\ZX\客流检测\PFD_Server_multi-threading_losing frame\PFD_Server\bin\Release\PFD_Server.exe
+D:\ZX\客流检测\PFD_Server_multi-threading_losing frame\PFD_Server\bin\Release\PFD_Server.pdb
+D:\ZX\客流检测\PFD_Server_multi-threading_losing frame\PFD_Server\bin\Release\MySql.Data.dll
+D:\ZX\客流检测\PFD_Server_multi-threading_losing frame\PFD_Server\obj\Release\PFD_Server.csprojResolveAssemblyReference.cache
